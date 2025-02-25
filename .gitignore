@@ -1,0 +1,5 @@
+.env copy
+public/
+deskapp-template/
+node_modules/
+public/
